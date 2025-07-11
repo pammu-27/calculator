@@ -1,0 +1,22 @@
+{
+  "name": "Modern Calculator",
+  "short_name": "Calculator",
+  "description": "A multi-mode calculator with simple and scientific modes, dark/light themes, and a cyberpunk design.",
+  "start_url": "/modern-calculator/",
+  "display": "standalone",
+  "background_color": "#1e1b33",
+  "theme_color": "#ff0080",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/modern-calculator/"
+}

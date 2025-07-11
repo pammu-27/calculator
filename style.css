@@ -87,7 +87,7 @@ body.dark {
 }
 
 .display .message.success {
-  background: rgba(36, 165, 0, 0.626);
+  background: rgba(0, 255, 0, 0.8);
   color: #fff;
   opacity: 1;
 }

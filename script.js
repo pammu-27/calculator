@@ -267,7 +267,7 @@ function handleInput(value) {
       resultDisplay.textContent = result;
       historyItems.push(`${expression} = ${result}`);
       updateHistory();
-     // showMessage('Calculation successful', 'success');
+      //showMessage('Calculation successful', 'success');
       expression = result.toString();
       expressionDisplay.textContent = expression;
       console.log(`Evaluated: ${expression} = ${result}`);
